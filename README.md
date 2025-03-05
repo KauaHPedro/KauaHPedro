@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Kauã  
 
-<!--
-**KauaHPedro/KauaHPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Cursando Ciência da Computação** (Previsão de conclusão: 2025)  
+💼 **Atualmente trabalhando como Analista de Suporte de Sistemas ERP**  
+📚 **Estudando programação e desenvolvimento backend**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Hard Skills  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+## 📈 GitHub Stats  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaHPedro&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHPedro&layout=compact&theme=dracula"/>
+</div>
+
+---
+
+## 📫 Como me encontrar  
+🔗 [LinkedIn](https://www.linkedin.com/in/kauahpedro/)  
+📧 **E-mail:** kauahcpedro@hotmail.com

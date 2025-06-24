@@ -23,7 +23,7 @@
 ## 📈 GitHub Stats  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaHPedro&show_icons=true&theme=dracula"/>
- [![GitHub Streak](https://streak-stats.demolab.com?user=KauaHPedro&theme=dracula&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&hide_total_contributions=true)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=KauaHPedro&theme=dracula&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&hide_total_contributions=true)]
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHPedro&layout=compact&theme=dracula"/>
 </div>
 

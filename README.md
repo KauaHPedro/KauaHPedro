@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Kauã  
 
-🎓 **Cursando Ciência da Computação** (Previsão de conclusão: Dez/2025)  
+🎓 **Formado em Ciência da Computação** 
 💼 **Atualmente trabalhando como Analista de Suporte de Sistemas ERP**  
 📚 **Estudando programação e desenvolvimento backend**  
 

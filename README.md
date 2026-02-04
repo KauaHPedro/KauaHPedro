@@ -36,14 +36,19 @@ Fique à vontade para explorar meus repositórios e acompanhar minha evolução 
 <div align="center">
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHPedro&layout=compact&langs_count=8&theme=dracula&card_width=320">
-  <img height="200" align="center" src="https://github-readme-stats-hugos-projects-8faba13c.vercel.app/api/top-langs/?username=KauaHPedro&layout=compact&langs_count=8&theme=dracula&card_width=320"/>
+  <img height="170" align="center"
+       src="https://github-readme-stats-hugos-projects-8faba13c.vercel.app/api/top-langs/?username=KauaHPedro&layout=compact&langs_count=8&theme=dracula&card_width=320"/>
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api?username=KauaHPedro&hide=contribs&show_icons=true&theme=dracula">
-  <img height="190" align="center" src="https://github-readme-stats-hugos-projects-8faba13c.vercel.app/api?username=KauaHPedro&hide=contribs&show=reviews&show_icons=true&theme=dracula"/>
+  <img height="170" align="center"
+       src="https://github-readme-stats-hugos-projects-8faba13c.vercel.app/api?username=KauaHPedro&hide=contribs&show=reviews&show_icons=true&theme=dracula"/>
 </a>
 
-<img height="190" src="https://nirzak-streak-stats.vercel.app/?user=KauaHPedro&theme=dracula&hide_border=false"/>
+<br/> <br/>
+
+<img height="180"
+     src="https://nirzak-streak-stats.vercel.app/?user=KauaHPedro&theme=dracula&hide_border=false"/>
 
 </div>
 

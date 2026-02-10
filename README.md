@@ -48,7 +48,7 @@ Fique à vontade para explorar meus repositórios e acompanhar minha evolução 
 <br/> <br/>
 
 <img height="180"
-     src="https://nirzak-streak-stats.vercel.app/?user=KauaHPedro&theme=dracula&hide_border=false"/>
+     src="https://streak-stats.demolab.com?user=KauaHPedro&theme=dracula"/>
 
 </div>
 
